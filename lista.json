@@ -1,842 +1,740 @@
 [
   {
-    "name": "1-A&E",
+    "name": "3ABN",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07i/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a027/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-AMC",
+    "name": "A MAS (mx)",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07f/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03i/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-AXN",
+    "name": "A3Cine",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07h/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01b/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Animal Planet",
+    "name": "A3Series",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07g/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01c/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-CNN Esp",
+    "name": "AMC",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07k/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a013/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Cartoon Network",
+    "name": "AMERICA SPORT",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07j/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01u/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Comedy Central",
+    "name": "ANTENA3",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07l/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01d/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery Ch",
+    "name": "Adult Swim",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07m/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a009/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery HGTV",
+    "name": "Animal Planet",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07n/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00b/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery ID",
+    "name": "Azteca Honduras",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07o/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03m/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery Kids",
+    "name": "BandaMax",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07p/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00u/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery Science",
+    "name": "Bitme",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07q/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00v/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery TCL",
+    "name": "CANAL 10 El salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07r/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02b/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Discovery World",
+    "name": "CGTN",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07s/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02m/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Disney Ch",
+    "name": "CINE HISPANO",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07t/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01g/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Disney Jr",
+    "name": "CINE INFANTIL",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07u/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01h/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-E Entertainment",
+    "name": "CINE MEXICANO",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07v/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01o/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-El Gourmet",
+    "name": "CINE PREMIUM",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07w/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01l/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Europa",
+    "name": "CINEMA PLATINO",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07y/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01f/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "1-Films & Arts",
+    "name": "CITY",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07z/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02q/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-AMC SERIES",
+    "name": "CNN En espanol",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08d/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00j/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-CMusica",
+    "name": "CNN Internacional",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a081/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02z/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-El Garage",
+    "name": "CORAL",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a082/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02n/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-FX",
+    "name": "Canal 11 El salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a080/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02c/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Food Network",
+    "name": "Canal 12",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a083/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a036/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO",
+    "name": "Canal 2 El salvador SV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a084/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a028/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO 2",
+    "name": "Canal 21 El salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a085/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02f/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO EXTREME",
+    "name": "Canal 23 TVO",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a086/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a032/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO FAMILY",
+    "name": "Canal 3El salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a087/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a001/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO MUND",
+    "name": "Canal 4 El salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a088/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a029/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO PLUS",
+    "name": "Canal 6 El Salvador",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a089/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02a/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HBO POP",
+    "name": "Canal Antigua",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08a/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02e/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-HTV",
+    "name": "Caracol Internacional",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08c/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a019/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-History",
+    "name": "Cartoon Network",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08b/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a002/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-MTV",
+    "name": "Cartoonito",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08e/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a003/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Nat Geo",
+    "name": "Cine Familiar",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08f/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02p/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Nic Jr",
+    "name": "Cine Latino",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08g/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01a/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Nickelodeon",
+    "name": "Comedy Central",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08h/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00f/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Paka Paka",
+    "name": "DE Pelicula",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08i/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00t/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Paramount",
+    "name": "DHE",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08j/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02u/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Rural",
+    "name": "DW",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08k/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a020/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Space",
+    "name": "Discovery Channel",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08l/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02y/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Star Channel",
+    "name": "Discovery Home & Garden",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08m/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00d/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-Studio Universal",
+    "name": "Discovery Home & Health",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08n/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00c/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-TNT",
+    "name": "Discovery ID",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08q/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00e/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-TNT Novelas",
+    "name": "Discovery Science",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08r/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00g/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "2-TNT Series",
+    "name": "Discovery TLC",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08s/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-Tec TV",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08o/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-Telemundo",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08p/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-Tooncast",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08t/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-USA Network",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08v/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-Universal Ch",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08u/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "2-Warner ch",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08w/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-A24",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08x/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-America TV",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08y/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-C5N",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a08z/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-Canal26",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a090/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-Cine.ar",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a091/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-Cronica",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a092/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-ESPN",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a096/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-ESPN 2",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a097/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-ESPN 3",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a098/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-ESPN 4",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07x/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-ESPN PREMIUM",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a099/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-El Nueve",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a093/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-El Trece",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a094/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-Encuentro",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a095/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-FOX SPORTS 2",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09a/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-FOX SPORTS 3",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09b/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-Fox Sports",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07e/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-La Nacion +",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09c/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-TELEFE",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09d/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-TN",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09e/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-TNT SPORTS",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09f/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-TV PUBLICA",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09g/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "3-TyC SPORTS",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09h/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "62-C5N",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a05q/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "62-El Trece",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a061/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "62-La Nacion +",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06f/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "A3 SERIES HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a02w/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "AMC HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ai/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "AMERICA 24 HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a021/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "AMERICA TV HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a071/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "ARGENTINISIMA HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07a/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "Argentinisima",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09t/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "BOLIVISION HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06w/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "Baby tv",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09v/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "C5N HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a023/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL 13 HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a070/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL 13 HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a026/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL 26 HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a028/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL 7 JUJUY",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a02a/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL 9 HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a072/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL DE LAS ESTRELLAS HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06q/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL LUZ",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a04z/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CANAL a",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a079/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CINECANAL HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a011/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CINEMAX HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a012/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CNN EN ESPAÃ\u0091OL",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06v/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "CRONICA TV",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a024/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "DHE HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a03y/index.m3u8?hls",
-    "image": ""
-  },
-  {
-    "name": "DREAMWORKS HD",
-    "category": "General",
-    "url": "http://45.5.151.62:8000/play/a010/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00h/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
     "name": "Discovery Turbo",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09w/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00i/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "EL GARAGE HD",
+    "name": "Distrito Comedia",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a01v/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00l/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "EL GOURMET HD",
+    "name": "EL SEMBRADOR (ESNE)",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07c/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a026/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "ENCUENTRO",
+    "name": "ENLACE",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a01x/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a025/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "ENCUENTRO ",
+    "name": "EVAL INDUSTRY TV ",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a07b/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02g/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
     "name": "EWTN",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a04y/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a023/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "Enlace tv",
+    "name": "Ecuavisa Internacional",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a051/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02v/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "FOOD NETWORKS HD",
+    "name": "El Camino TV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06p/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03b/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "FX HD",
+    "name": "El Financiero",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0al/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a038/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "GOLDEN EDGE",
+    "name": "El Gourmet",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ad/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a012/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "GOLDEN PREMIER HD",
+    "name": "Enlace Juvenil",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a01u/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02j/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "Golf Channel",
+    "name": "Euro Channel",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ao/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02x/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "LN+ HD",
+    "name": "Europa",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a025/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a011/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "MAGAZINE",
+    "name": "FRANCE 24",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a03w/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01y/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "MASCHIC HD",
+    "name": "Films And Arts",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0a1/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a010/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "MULTIVISION",
+    "name": "Getsemani TV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a029/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a033/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "NICK JR",
+    "name": "Golden",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a00z/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00m/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "SONY HD",
+    "name": "Golden Edge",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a02x/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00s/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "SONY MOVIES HD",
+    "name": "Guatevision ",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ah/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a034/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "SPACE HD",
+    "name": "HTV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ag/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a005/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "STAR CHANNEL HD",
+    "name": "HispanTV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0am/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03o/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "STUDIO UNIVERSAL HD",
+    "name": "HogarTV",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ac/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03j/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "STUDIO UNIVERSAL HD",
+    "name": "La Voz de Maria",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ak/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a03q/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "Sony",
+    "name": "Las Estrellas",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ap/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00n/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "MARIA VISON",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a024/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "MI MUSICA HIT",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01j/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "MI MUSICA REGUETON",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01i/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "MI MUSICA ROMANTICA",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01k/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "MTV",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a00y/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Mi Musica Regional",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a030/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Multipremier",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a015/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "NUESTRA TELE",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01m/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Nick JR",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a00x/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Nickelodeon",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a00w/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Nuevo Mundo",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02r/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "OROMAR",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02t/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "PANICO",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01e/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Pasiones",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a018/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "RCN NOVELAS",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01n/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "RT en espanol",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01z/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "RumbaTV",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03p/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Rural",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01w/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "SIPRODOH Honduras",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03k/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "SPACE",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a004/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
     "name": "TCM",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a03u/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a014/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TEEN NICK HD",
+    "name": "TELEANTILLAS",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a02u/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a021/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TELENOVELAS HD",
+    "name": "TELEHIT",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06r/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00p/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TLNOVELAS HD",
+    "name": "TELEHIT MUSICA",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09z/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00q/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TN",
+    "name": "TELENOSTALGIA",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a020/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01q/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TNT HD",
+    "name": "TELESISTEMA",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0af/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a022/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TNT NOVELAS HD",
+    "name": "TELESUR",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0a0/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01x/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "TURBO",
+    "name": "TL Novelas",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a01w/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00r/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "UNITEL",
+    "name": "TN23 Guatemala",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a06x/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a02h/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "UNIVERSAL CHANNEL HD",
+    "name": "TNT",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0ab/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a006/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "UNIVERSAL HD",
+    "name": "TNT Novelas",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a0an/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00a/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "VOLVER",
+    "name": "TNT Series",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a03v/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a007/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "WB HD",
+    "name": "TUDN",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a02v/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a00o/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   },
   {
-    "name": "canal7",
+    "name": "TV AGRO",
     "category": "General",
-    "url": "http://45.5.151.62:8000/play/a09x/index.m3u8?hls",
-    "image": ""
+    "url": "http://186.33.26.7:8000/play/a01r/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "TV Arquidiocesana GT",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03g/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "TVCA el Salvador",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a039/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "TeleMedellin",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03f/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "TelePacifico",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03h/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Teleantioquia",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03e/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Tooncast",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a008/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "TravelXP",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a037/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Trece",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a03n/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "ULTRA CLASICO",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01s/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "UNIVISION",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a00k/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Ultra Banda",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01t/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Ultra Familiar",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02l/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Ultra Kidz",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a031/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Ultra Luna",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02k/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "Ultra Tainment",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02o/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "VEA Canal",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02s/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "VIDEO ROLA",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a01p/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
+  },
+  {
+    "name": "a mas guate",
+    "category": "General",
+    "url": "http://186.33.26.7:8000/play/a02w/index.m3u8?hls",
+    "image": "https://files.catbox.moe/6s608n.png"
   }
-]
+    ]
